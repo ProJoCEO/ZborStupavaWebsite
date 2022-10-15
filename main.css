@@ -1,0 +1,103 @@
+
+/* Central */
+
+
+html{
+    background: yellow;
+}
+
+.MainContent{
+    padding: 20px;
+}
+
+.HeadTitle{
+    text-align: center;
+    color: darkblue;
+    margin: 50px;
+}
+
+.text{
+    text-align: center;
+    color: black;
+
+}
+
+img{
+    height: 175px;
+    width: auto;
+    text-align: center;
+}
+
+/* Navigation */
+
+nav{
+    padding: 0 100px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    background: white;
+    border: red solid 2px;
+    height: 30px;
+}
+
+a:hover{
+    color: white;
+    background: red;
+}
+
+a:focus{
+    outline: none;
+}
+
+.active{
+    background: red;
+    color: white;
+}
+
+/* Index */
+
+.ImgPar {
+    display: flex;
+    height: auto;
+    align-self: center;
+    margin: 80px 20px;
+}
+
+/* Nahravky */
+
+.audioContent{
+    margin-top: 20px    ;
+    text-align: center;
+    color: black;
+}
+
+audio{
+    margin-bottom: 20px;
+}
+
+/* Footer */
+
+footer{
+    background: black;
+    height: auto;
+    padding: 20px;
+    margin: 0;
+    color: dimgray;
+}
+
+.FooterPart{
+    margin: 50px 0;
+    align-items: center;
+    text-align: center;
+}
+
+.FooterText{
+    color: dimgray;
+    text-align: center;
+}
+
+
+
